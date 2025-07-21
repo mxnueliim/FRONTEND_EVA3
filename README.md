@@ -1,1 +1,1 @@
-Proyecto de cliniva veterinaria en REACT + API 
+Proyecto de clinica veterinaria en REACT + API 
